@@ -32,28 +32,6 @@ An accessibility-focused, AI-powered reading assistant built with **Ruby on Rail
 
 ---
 
-### 💉 [Simulateur IADE](https://github.com/TonyLawrence85/simulateur_iade)
-
-A **Rails 8 payroll and career simulation engine** modelling complex French public-hospital remuneration rules for IADE/IDE professionals.
-
-**Highlights:**
-
-- monthly payslip simulation from grade and echelon
-- dedicated domain services for payroll calculations
-- profession-specific bonuses, NBI and family supplements
-- overtime, night-hours and part-time rules
-- payroll contributions, CSG/CRDS and withholding tax
-- career progression and promotion projections
-- payslip scenario comparison
-- 27 dedicated business tests
-- GitHub Actions CI with RuboCop, Brakeman and Bundler Audit
-
-**Stack:** Ruby · Rails 8 · PostgreSQL · Hotwire · Stimulus · Bootstrap · Minitest · GitHub Actions
-
-[Explore Simulateur IADE →](https://github.com/TonyLawrence85/simulateur_iade)
-
----
-
 ### 🌐 [Readapt Chrome Extension](https://github.com/TonyLawrence85/readapt-chrome-extension)
 
 A **Manifest V3 browser accessibility extension** that adapts websites directly in Chrome and complements the deeper transformations available in Readapt Web.
@@ -73,6 +51,28 @@ A **Manifest V3 browser accessibility extension** that adapts websites directly 
 **Stack:** JavaScript · HTML · CSS · Chrome Extensions API · Manifest V3 · Node.js testing
 
 [Explore the Chrome Extension →](https://github.com/TonyLawrence85/readapt-chrome-extension)
+
+---
+
+### 💉 [Simulateur IADE](https://github.com/TonyLawrence85/simulateur_iade)
+
+A **Rails 8 payroll and career simulation engine** modelling complex French public-hospital remuneration rules for IADE/IDE professionals.
+
+**Highlights:**
+
+- monthly payslip simulation from grade and echelon
+- dedicated domain services for payroll calculations
+- profession-specific bonuses, NBI and family supplements
+- overtime, night-hours and part-time rules
+- payroll contributions, CSG/CRDS and withholding tax
+- career progression and promotion projections
+- payslip scenario comparison
+- 27 dedicated business tests
+- GitHub Actions CI with RuboCop, Brakeman and Bundler Audit
+
+**Stack:** Ruby · Rails 8 · PostgreSQL · Hotwire · Stimulus · Bootstrap · Minitest · GitHub Actions
+
+[Explore Simulateur IADE →](https://github.com/TonyLawrence85/simulateur_iade)
 
 ## 🛠️ Technical Toolbox
 
